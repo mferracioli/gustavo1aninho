@@ -36,4 +36,11 @@ body {
     body {
         background-position: 0 -200px;
     }
+    .content {
+        overflow: hidde;
+    }
+    .content a {
+        width: 143%;
+        margin-left: -20%;
+    }
 }
