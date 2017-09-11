@@ -43,4 +43,7 @@ body {
         width: 143%;
         margin-left: -20%;
     }
+    .content a:first-child {
+        margin-top: -15%;
+    }
 }
