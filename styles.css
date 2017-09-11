@@ -37,7 +37,7 @@ body {
         background-position: 0 -200px;
     }
     .content {
-        overflow: hidde;
+        overflow: hidden;
     }
     .content a {
         width: 143%;
