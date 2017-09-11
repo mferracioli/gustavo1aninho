@@ -1,1 +1,30 @@
 @CHARSET "UTF-8";
+
+body {
+    background: url(images/bg.png) repeat-x;
+    background-color: #CC0614;
+}
+
+.content {
+    width: 100%;
+    max-width: 846px;
+    margin: 0 auto;
+}
+
+.content a {
+    display: block;
+    width: 100%;
+}
+
+.content a img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.buttons {
+    display: block;
+    width: 100%;
+    max-width: 289px;
+    margin: 30px auto 0 auto;
+}
